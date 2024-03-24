@@ -1,0 +1,25 @@
+.recent .text{
+    padding: 30px;
+}
+.recent .category span {
+    padding: 4px 15px;
+    font-weight: 600;
+    font-size: 13px;
+    display: inline-block;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+.recent .category{
+    font-size: 20px;
+    color: #bec7d8;
+}
+.recent p {
+    color: #72809d;
+}
+.recent .button {
+    border-top: 1px solid #efe8f3;
+    padding: 10px 30px;
+}
